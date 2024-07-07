@@ -1,0 +1,31 @@
+Please parse the following resume content into JSON format with the keys: "Name", "Contact Information", "Professional Summary", "Skills", "Experience", and "Education". use timenewroman font for this and don't use any author photo or image make it professional for interview
+
+Resume:
+Jeevan
+ this is my address VGN 101 Tranquil Apartment, Chengalpattu District, 603203
+936-180-2713
+jr0623@srmist.edu.in
+
+Professional Summary:
+Innovative developer and designer with a robust freelancing background. Proficient in tools like Adobe Illustrator, Figma, Adobe Photoshop, and Unity, and skilled in HTML, CSS, JavaScript, C, and Python for development. Adept at blending creative design with technical expertise to deliver compelling and functional digital experiences.
+
+Skills:
+- Adobe Illustrator
+- Figma
+- Adobe Photoshop
+- Unity
+- HTML, CSS, JavaScript
+- C, Python
+
+Experience:
+Freelance Developer and Designer
+Chengalpattu District, India
+- Worked on various design and development projects
+- Managed client communications and project timelines
+- Delivered high-quality digital solutions
+
+Education:
+Currently studying 3rd year in B.Tech CSE at SRM Institute of Science and Technology, Kattankulathur.
+"""
+
+Output the result in JSON format. generate me the resume without picture
